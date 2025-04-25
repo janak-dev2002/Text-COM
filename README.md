@@ -1,4 +1,4 @@
-# Soldier Management System
+# Test TCP Commuinication for Soldier Management System
 
 This project is a Java-based application designed to manage soldier information and communication using TCP protocols. It includes a text-based communication module to facilitate efficient and secure data exchange.
 

@@ -5,7 +5,7 @@ import java.net.*;
 public class TextClient {
     public static void main(String[] args) {
         final String SERVER_IP = "192.168.8.155"; // or server IP
-        final int SERVER_PORT = 5000;
+        final int SERVER_PORT = 7000;
 
         try (Socket socket = new Socket(SERVER_IP, SERVER_PORT)) {
             System.out.println("Connected to server");
